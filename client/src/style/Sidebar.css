@@ -1,0 +1,16 @@
+/* this is just for visibility purposes to be amended by Morag and Adonelle -Imane */
+
+.mfl-sidebar {
+	font-family: 'Eina01-Bold' ;
+    color: rgb(64, 64, 65);
+	background-color: #ffffff;
+	padding: 32px;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 350px;
+}
+
+
+
+
+

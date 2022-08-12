@@ -1,0 +1,68 @@
+.landinglogo {
+    margin-top: -35px;
+}
+
+.landingimage {
+    padding: 10px
+}
+
+.landingheader {
+    padding: 0px
+
+}
+
+.landingtagline {
+
+}
+
+.landingheadline {
+    padding: 10px;
+    font-size: 33px;
+    margin-bottom: 15px;
+    margin-top: -20px;
+
+}
+
+.landingpararaph {
+    margin-top: 10px !important;
+}
+
+.buttongroup{
+    margin-top: 40px;
+    
+}
+
+.signupbutton {
+    background-color: rgb(50, 60, 132) !important;
+    border: rgb(50, 60, 132) !important;
+    color: white !important;
+    margin-bottom: 10px !important;
+    width: 100px;
+	height: 50px;
+    font-size: 18px !important;
+    display: inline !important;
+}
+
+.loginbutton {
+    background-color: rgb(50, 60, 132) !important;
+    border: rgb(50, 60, 132) !important;
+    color: white !important;
+    width: 100px;
+	height: 50px;
+    font-size: 18px !important;
+    display: inline !important;
+}
+
+.rhc{
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.or {
+    display: inline !important;
+    padding: 20px;
+
+}

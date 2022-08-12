@@ -1,0 +1,70 @@
+@import url(//db.onlinewebfonts.com/c/2d57f676e3d6955778fb8acac0176b9a?family=Eina01-Bold);
+
+body{
+  font-family: "Eina01-Bold", !important;
+  font-size: 20px;
+}
+
+.App {
+  text-align: center;
+  background-color:rgb(255, 255, 255);
+  font-family: 'Eina01-Bold';
+
+}   
+.label{
+  display: block;
+  font-size: larger;
+  color: rgb(64, 64, 65);
+  padding: 5px;
+}
+ 
+.input{
+  font-size: larger;
+  padding: 5px;
+  margin: 2px;
+  
+}
+.btn{
+  color: rgb(137, 137, 137);
+  background-color: rgb(12, 0, 60);
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin: 10px auto;
+}
+ 
+.messages{
+  display: flex;
+  justify-content:right
+}
+ 
+.error{
+  display: block;
+  background-color: rgb(255, 255, 255);
+  color: rgb(192, 163, 255);
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+}
+ 
+.success{
+  display: block;
+  background-color: rgb(255, 255, 255);
+  color: rgb(192, 163, 255);
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+}
+
+.mfl-logo-login {
+  height: 70px; 
+  display: block;
+  justify-content: center;
+}
+
+.HeaderLogin {
+  font-family: "Eina01-Bold";
+  font-size: 20px;
+  justify-content: right;
+}
